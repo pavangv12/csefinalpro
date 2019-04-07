@@ -1,0 +1,47 @@
+course_code,course_name,sem,credits
+P15MA01,Math-1,1,4
+P15CH02,Chemistry,1,4
+P15EC03,Basic Electronics,1,4
+P15CS04,Computer Science,1,4
+P15MEL05,CAED Lab,1,3
+P15CHL06,Chemistry lab,1,3
+P15CSL07,CCP lab,1,3
+P15MA02,Math-2,2,4
+P15PH02,Physics,2,4
+P15ME03,Mechanical,2,4
+P15CV04,Mechanics,2,4
+P15EE05,Electricals ,2,4
+P15PHL02,Physics lab,2,3
+P15MEL03,Workshop,2,3
+P15MA03,Math-3,3,4
+P15CS31,DMS,3,4
+P15CS32,LD,3,4
+P15CS33,DS,3,4
+P15CS34,OOPS,3,3
+P15CS35,CO,3,4
+P15CSL36,LD lab,3,3
+P15CSL37,DS Lab,3,3
+P15CS41,Math-4,4,4
+P15CS42,GT,4,4
+P15CS43,TOC,4,4
+P15CS44,ADA,4,4
+P15CS45,Unix,4,3
+P15CS46,Microprocessor,4,4
+P15CSL47,OOPS lab,4,3
+P15CSL48,ADA lab,4,3
+P15CS51,OS,5,4
+P15CS52,DBMS,5,4
+P15CS53,DC,5,4
+P15CS54,System Software,5,4
+P15CS55,CG,5,4
+P15CS56,Entrepreneurship,5,3
+P15CSL57,System Software lab,5,3
+P15CSL58,Microprocessor lab,5,3
+P15CS61,Web Technologies,6,4
+P15CS62,CN,6,4
+P15CS63,Compiler Design,6,4
+P15CS64,ACA,6,4
+P15CS65,Software Engineering,6,3
+P15CS66,Java,6,4
+P15CSL67,CG Lab,6,3
+P15CSL68,DBMS lab,6,3
